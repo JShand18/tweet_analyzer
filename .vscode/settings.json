@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "json-simple-1.1.1.jar",
+        "commons-cli-1.5.0.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+}
